@@ -1,0 +1,4 @@
+/bots/[0-9]*/cache
+/bots/[0-9]*/logs
+/logs
+/WeiboCache/[0-9]*
