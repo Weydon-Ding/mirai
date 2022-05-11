@@ -1,6 +1,5 @@
 @echo off
-setlocal
-set JAVA_BINARY="C:\Users\Administrator\Desktop\mirai\java\bin\java.exe"
+set JAVA_BINARY=".\java\bin\java.exe"
 %JAVA_BINARY% -jar mcl.jar %*
 
 set EL=%ERRORLEVEL%
