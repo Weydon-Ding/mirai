@@ -30,6 +30,18 @@
       "version": "2.1.1",
       "type": "plugins",
       "versionLocked": false
+    },
+    "net.mamoe:mirai-api-http": {
+      "channel": "stable-v2",
+      "version": "2.6.2",
+      "type": "plugins",
+      "versionLocked": false
+    },
+    "net.mamoe:chat-command": {
+      "channel": "stable",
+      "version": "0.5.1",
+      "type": "plugins",
+      "versionLocked": false
     }
   },
   "archiveSuffix": [
