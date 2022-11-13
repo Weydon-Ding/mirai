@@ -1,5 +1,4 @@
 * text=auto
-
-
 *.json text eol=lf
 *.yml text eol=lf
+*.exe filter=lfs diff=lfs merge=lfs -text
